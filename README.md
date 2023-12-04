@@ -14,7 +14,7 @@
 
 ## Business Activities
 
-* Exscientia is working to reduce the time it takes to discover new moleculules to then design and develope new pharmacautical drugs. They also incorporate target identification and patient selection based on DNA samples to provide drug therapies to patients. 
+* Exscientia is working to reduce the time it takes to discover, design and develope new pharmacautical drugs. They also incorporate target identification and patient selection based on DNA samples to provide drug therapies to patients. 
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
@@ -24,7 +24,7 @@
 
 ## Landscape
 
-* What field is the company in?
+* Exscientia is in the medical/healthcare and are considered a biotech company 
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
