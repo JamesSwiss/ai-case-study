@@ -16,7 +16,7 @@
 
 * Exscientia is working to reduce the time it takes to discover, design and develope new pharmacautical drugs. They also incorporate target identification and patient selection based on DNA samples to provide drug therapies.
 
-* The companies's intended customer who they can license their drugs to with the production capacity and quaity control standards already in place. Their focus is oncology and immunology, targeting cancer, blood, and inflammatory disease.
+* The companies's intended customers are the congomerates whom they can license their drugs to with the production capacity and quaity control standards already in place. Their secondary market is consumers/patients who seek targeted treatment. Their focus is oncology and immunology, targeting cancer, blood, and inflammatory disease.
 
 * The main advantage that Exscientia has is their infrastcure and partnerships cultivated over years. They were the first to bring AI dveloped drugs to clinical trials and have been refining the process for the past decade, including the building of automated labs. Key partnerships with large investors like The Bill and Melinda Gates Foundation are also an advantage given their connection to medical industries all around the world. 
 
