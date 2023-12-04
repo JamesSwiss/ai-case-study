@@ -34,17 +34,17 @@
 
 * What has been the business impact of this company so far?
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+* One of the core metrics used by companies in this field is getting their drugs to clinical trials. Exscientia was the first AI drug company to get three drugs to trial. 
 
 * How is your company performing relative to competitors in the same field?
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* I would advise this company to add blood and saliva tests that can be offered in doctors offices or sent away for similar to gelealogy companies like 23AndMe. 
 
-* Why do you think that offering this product or service would benefit the company?
+* Assuming permission is granted, this would significantly increase the data set that can be used for training their models as well as opening a new revenue stream. This would also increase the canidate pool for patient selection of new designer drugs.  
 
-* What technologies would this additional product or service utilize?
+* Predictive analytics would useful here, measuring known genetic markers of disease against a patient's medical history. 
 
 * Why are these technologies appropriate for your solution?
 
