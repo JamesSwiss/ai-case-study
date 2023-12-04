@@ -1,4 +1,4 @@
-# # Exscientia Case Study 
+# Exscientia Case Study 
 
 ## Overview and Origin
 
