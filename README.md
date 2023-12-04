@@ -18,7 +18,7 @@
 
 * The companies's intended customers are the congomerates whom they can license their drugs to with the production capacity and quaity control standards already in place. Their secondary market is consumers/patients who seek targeted treatment. Their focus is oncology and immunology, targeting cancer, blood, and inflammatory disease.
 
-* The main advantage that Exscientia has is their infrastcure and partnerships cultivated over years. They were the first to bring AI dveloped drugs to clinical trials and have been refining the process for the past decade, including the building of automated labs. Key partnerships with large investors like The Bill and Melinda Gates Foundation are also an advantage given their connection to medical industries all around the world. 
+* The main advantage that Exscientia has is their infrastcure and partnerships cultivated over years. They were the first to bring AI dveloped drugs to clinical trials and have been refining the process for the past decade, including the building of automated labs. Key partnerships with large investors like The Bill and Melinda Gates Foundation are also an advantage given their connection to medical industries all around the world. Their partnership with Sanofi is worth up to 5.2 bllion, ensuring a steady flow of funds for continued operations, expansion, and research and devlopment for years to come. 
 
 * Their primary technology is AI software intergrated into their automated lab, what they call their precision medicine platform. This platofrm uses AI to examine live patient tissue on the level of a single cell.  
 
@@ -36,17 +36,17 @@
 
 * One of the core metrics used by companies in this field is getting their drugs to clinical trials. Exscientia was the first AI drug company to get three drugs to trial and has 4 drugs in their pipeline right now, two of which have reached stage 1 clinical trials. 
 
-* Exscientia is 
+* Exscientia's performance is in line with its competitors 
 
 ## Recommendations
 
-* I would advise this company to add blood and saliva tests that can be offered in doctors offices or sent away for similar to gelealogy companies like 23AndMe. 
+* I would advise this company to add blood and saliva tests that can be offered in doctors offices or sent away for in the mail, similar to genetic testing companies like 23AndMe, and to leverage the use of their auromated lab infrastructure for people to take, test, and receive results with little third party intervention. 
 
-* Assuming permission is granted, this would significantly increase the data set that can be used for training their models as well as opening a new revenue stream. This would also increase the canidate pool for patient selection of new designer drugs.  
+* This could significantly increase the data set that can be used for training their models as well as opening a new revenue stream. This would also increase the canidate pool for patient selection of new designer drugs.  
 
-* Predictive analytics would useful here, measuring known genetic markers of disease against a patient's medical history, machine learning to help predict patient responses to treatments, and AI for disease modeling based on current, high quality data 
+* Predictive analytics would useful here, measuring known genetic markers of disease against a patient's medical history, machine learning to help predict patient responses to treatments, and AI for disease modeling based on current, high quality data
 
-* This technology is appropriate because the trend is moving away from treatment alone once a disease is found and into early or even pre-diagnosis and prevention. 
+* This technology is appropriate because the trend is moving away from treatment alone once a disease is found and into early or even pre-diagnosis and prevention.
 
 * Sources:
   
@@ -55,6 +55,8 @@
   https://www.cbinsights.com/company/exscientia
   https://ourworldindata.org/cancer#:~:text=The%20map%20shows%20that%20we,countries%20shown%20in%20light%20yellow
   https://www.exscientia.ai/pipeline
-  
-  
+  https://pubs.acs.org/doi/10.1021/acs.jcim.2c00258
+  https://exscientia.cdn.prismic.io/exscientia/ea1ecbda-7d03-447b-becd-541e005f8129_Tse+et+al+2021.pdf
+  https://exscientia.cdn.prismic.io/exscientia/2060d8b0-d8df-40d4-b689-0fab25939edb_Imrie+et+al+2020.pdf
+  https://www.ukri.org/who-we-are/how-we-are-doing/research-outcomes-and-impact/bbsrc/exscientia-a-clinical-pipeline-for-ai-designed-drug-candidates/
   
