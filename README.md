@@ -8,13 +8,13 @@
 
 * Founded by Andrew Hopkins
 
-* The idea came about when Andrew was a PhD student in the 1990's researching HIV drugs and thought of how much more efficient it owuld be if there was technology to automate the testing and discovery of new molecules that can be combined into pharmaceutical drugs. 
+* The idea came about when Andrew was a PhD student in the 1990's researching HIV drugs and thought of how much more efficient it owuld be if there was technology to automate the testing and discovery of new molecules that can be combined into pharmaceutical drugs.
 
 * Exscientia went public on October 1, 2021 on the NASDAQ stock exchange under the ticker symbole EXAI, having rasied over 672.7 million. They have a current market cap of 770.88 million with an enterprise value of 328.35 million.
 
 ## Business Activities
 
-* Exscientia is working to reduce the time it takes to discover, design and develope new pharmacautical drugs. They also incorporate target identification and patient selection based on DNA samples to provide drug therapies.
+* Exscientia is working to reduce the time it takes to discover, design and develope new pharmacautical drugs. They also incorporate target identification and patient selection based on DNA samples to provide drug therapies. In the words of the founder "Our mission is to design the best drugs for as many patients as possible by thinking about how we can automate the creation of drugs and their development." 
 
 * The companies's intended customers are the congomerates whom they can license their drugs to with the production capacity and quaity control standards already in place. Their secondary market is consumers/patients who seek targeted treatment. Their focus is oncology and immunology, targeting cancer, blood, and inflammatory disease.
 
