@@ -2,19 +2,19 @@
 
 ## Overview and Origin
 
-* Exscientia 
+* Company Name: Exscientia 
 
 * Incorporated in 
 
 * Founded by 
 
-* The idea came about
+* The idea came about when Andrew was a PhD student in the 1990's researching HIV drugs and thought of how much more efficient it owuld be of there was technology to automate the testing and discovery of new molecules that can be combined into pharmaceutical drugs 
 
-* How is the company funded? How much funding have they received?
+* Esxcientia went public in ____ and had a valuation of 
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+* Exscientia is working to reduce the time it takes to discover new molecular combinations for the creation of pharmaceutical drugs
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
