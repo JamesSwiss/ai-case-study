@@ -49,7 +49,7 @@
 * This technology is appropriate because the trend is moving away from treatment alone once a disease is found and into early or even pre-diagnosis and prevention. 
 
 * Sources:
-* 
+  
   https://www.labiotech.eu/trends-news/exscientia-drug-discovery-ai/#:~:text=Exscientia%27s%20total%20winnings%20from%20the,2.5B%20(%242.9B)
   https://stockanalysis.com/stocks/exai/
   https://www.cbinsights.com/company/exscientia
