@@ -8,7 +8,7 @@
 
 * Founded by Andrew Hopkins
 
-* The idea came about when Andrew was a PhD student in the 1990's researching HIV drugs and thought of how much more efficient it owuld be if there was technology to automate the testing and discovery of new molecules that can be combined into pharmaceutical drugs 
+* The idea came about when Andrew was a PhD student in the 1990's researching HIV drugs and thought of how much more efficient it owuld be if there was technology to automate the testing and discovery of new molecules that can be combined into pharmaceutical drugs. 
 
 * Exscientia went public on October 1, 2021 on the NASDAQ stock exchange under the ticker symbole EXAI, having rasied over 672.7 million. They have a current market cap of 770.88 million with an enterprise value of 328.35 million.
 
@@ -40,11 +40,11 @@
 
 ## Recommendations
 
-* I would advise this company to add blood and saliva tests that can be offered in doctors offices or sent away for in the mail, similar to genetic testing companies like 23AndMe, and to leverage the use of their auromated lab infrastructure for people to take, test, and receive results with little third party intervention. 
+* I would advise this company to add consumer accessible blood and saliva tests that can be offered in doctors offices or sent away for in the mail, similar to genetic testing companies like 23AndMe, and to leverage the use of their auromated lab infrastructure for people to take, test, and receive results with little third party intervention. 
 
-* This could significantly increase the data set that can be used for training their models as well as opening a new revenue stream. This would also increase the canidate pool for patient selection of new designer drugs.  
+* Assuming privacy permissions are granted, this could significantly increase the data set that can be used for training their models as well as opening a new revenue stream to support the data collection. This would also increase the canidate pool for patient selection of new designer drugs. 
 
-* Predictive analytics would useful here, measuring known genetic markers of disease against a patient's medical history, machine learning to help predict patient responses to treatments, and AI for disease modeling based on current, high quality data
+* Predictive analytics would useful here, measuring known genetic markers of disease against a patient's medical history, machine learning to help predict patient responses to treatments, and AI for disease modeling based on current, high quality data. 
 
 * This technology is appropriate because the trend is moving away from treatment alone once a disease is found and into early or even pre-diagnosis and prevention.
 
