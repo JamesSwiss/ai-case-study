@@ -59,4 +59,5 @@
   https://exscientia.cdn.prismic.io/exscientia/ea1ecbda-7d03-447b-becd-541e005f8129_Tse+et+al+2021.pdf
   https://exscientia.cdn.prismic.io/exscientia/2060d8b0-d8df-40d4-b689-0fab25939edb_Imrie+et+al+2020.pdf
   https://www.ukri.org/who-we-are/how-we-are-doing/research-outcomes-and-impact/bbsrc/exscientia-a-clinical-pipeline-for-ai-designed-drug-candidates/
+  https://www.liebertpub.com/doi/10.1089/genbio.2022.29035.aho
   
