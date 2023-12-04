@@ -26,9 +26,9 @@
 
 * Exscientia is in the medical/healthcare and are considered a biotech company 
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+* The field of AI biotechs has moved from mapping diseases from structured date to where it is today, creating new molecules and rapidly testing the results against patient samples
 
-* What are the other major companies in this field?
+* There are a number of competitors in this field: 
 
 ## Results
 
@@ -44,9 +44,9 @@
 
 * Assuming permission is granted, this would significantly increase the data set that can be used for training their models as well as opening a new revenue stream. This would also increase the canidate pool for patient selection of new designer drugs.  
 
-* Predictive analytics would useful here, measuring known genetic markers of disease against a patient's medical history. 
+* Predictive analytics would useful here, measuring known genetic markers of disease against a patient's medical history, machine learning to help predict patient responses to treatments, and AI for disease modeling based on current, high quality data 
 
-* Why are these technologies appropriate for your solution?
+* This technology is appropriate because the trend is moving away from treatment alone once a disease is found and into early or even pre-diagnosis and prevention. 
 
 * Sources:
   https://www.labiotech.eu/trends-news/exscientia-drug-discovery-ai/#:~:text=Exscientia%27s%20total%20winnings%20from%20the,2.5B%20(%242.9B)
