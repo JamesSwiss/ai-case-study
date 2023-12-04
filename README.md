@@ -24,7 +24,9 @@
 
 ## Landscape
 
-* Exscientia is in the medical/healthcare and are considered a biotech company 
+* Exscientia is in the medical/healthcare and are considered a biotech company
+
+* The major trend in the space ten years ago was to use machine learning to map the human genome and find biomarkers. Today the technonogy can take those biomarkers and test newly designed drugs against them using small samples of subject DNA, doing in weeks or days what used to take month or years. The trend now is about creation and discovery of new molecules, treatments, and preventions. 
 
 * There are a number of competitors in this field: Relay Theraputics, Insistro, Deep Genomics, Atomwise, Valo Health, Recursion Pharmaceutials
 
