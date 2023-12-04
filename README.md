@@ -20,13 +20,13 @@
 
 * The main advantage that Exscientia has is their infrastcure and partnerships cultivated over years. They were the first to bring AI dveloped drugs to clinical trials and have been refining the process for the past decade, including the building of automated labs. Key partnerships with large investors like The Bill and Melinda Gates Foundation are also an advantage given their connection to medical industries all around the world. 
 
-* Their primary technology is AI software intergrated into their automated lab  
+* Their primary technology is AI software intergrated into their automated lab, what they call their precision medicine platform. This platofrm uses AI to examine live patient tissue on the level of a single cell.  
 
 ## Landscape
 
-* Exscientia is in the medical/healthcare and are considered a biotech company
+* Exscientia is in the medical/healthcare and are considered a biotech company.
 
-* The major trend in the space ten years ago was to use machine learning to map the human genome and find biomarkers. Today the technonogy can take those biomarkers and test newly designed drugs against them using small samples of subject DNA, doing in weeks or days what used to take month or years. The trend now is about creation and discovery of new molecules, treatments, and preventions. 
+* The major trend in the space ten years ago was to use machine learning to map the human genome and find biomarkers relevant to diseases and even aging. Today the technonogy can take those biomarkers and test newly designed drugs against them using small samples of subject DNA, doing in weeks or days what used to take month or years. The trend now is about creation and discovery of new molecules, treatments, and preventions. 
 
 * There are a number of competitors in this field: Relay Theraputics, Insistro, Deep Genomics, Atomwise, Valo Health, Recursion Pharmaceutials
 
@@ -36,7 +36,7 @@
 
 * One of the core metrics used by companies in this field is getting their drugs to clinical trials. Exscientia was the first AI drug company to get three drugs to trial and has 4 drugs in their pipeline right now, two of which have reached stage 1 clinical trials. 
 
-* How is your company performing relative to competitors in the same field?
+* Exscientia is 
 
 ## Recommendations
 
