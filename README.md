@@ -16,11 +16,11 @@
 
 * Exscientia is working to reduce the time it takes to discover, design and develope new pharmacautical drugs. They also incorporate target identification and patient selection based on DNA samples to provide drug therapies to patients. 
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+* The companies's intended customer who they can license their drugs to with the production capacity and quaity control standards already in place. Their focus is oncology and immunology, targeting cancer, blood, and inflammatory disease. 
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* The main advantage that Exscientia has is their infrastcure. They were the first to bring (3)drugs to clinical trials and have been refining the process for the past decade, including the building of automated labs. Key partnerships with large investors like The Bill and Melinda Gates Foundation are also an advantage given their connection to the medical industries all around the world. 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Their primary technology is AI software intergrated into their automated labs, 
 
 ## Landscape
 
@@ -52,5 +52,8 @@
   https://www.labiotech.eu/trends-news/exscientia-drug-discovery-ai/#:~:text=Exscientia%27s%20total%20winnings%20from%20the,2.5B%20(%242.9B)
   https://stockanalysis.com/stocks/exai/
   https://www.cbinsights.com/company/exscientia
+  https://ourworldindata.org/cancer#:~:text=The%20map%20shows%20that%20we,countries%20shown%20in%20light%20yellow
+  https://www.exscientia.ai/pipeline
+  
   
   
