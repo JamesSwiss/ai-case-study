@@ -10,11 +10,11 @@
 
 * The idea came about when Andrew was a PhD student in the 1990's researching HIV drugs and thought of how much more efficient it owuld be of there was technology to automate the testing and discovery of new molecules that can be combined into pharmaceutical drugs 
 
-* Esxcientia went public in ____ and had a valuation of 
+* Esxcientia went public in ____ and has a current market cap of 770.88 million with an enterprise value of 328.35 million
 
 ## Business Activities
 
-* Exscientia is working to reduce the time it takes to discover new molecular combinations for the creation of pharmaceutical drugs
+* Exscientia is working to reduce the time it takes to discover new moleculules to then design and develope new pharmacautical drugs. They also incorporate target identification and patient selection based on DNA samples, testing multiple drugs in parallel on the sample without risk to the patient. 
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
@@ -47,3 +47,7 @@
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+* Sources:
+  https://www.labiotech.eu/trends-news/exscientia-drug-discovery-ai/#:~:text=Exscientia%27s%20total%20winnings%20from%20the,2.5B%20(%242.9B)
+  
