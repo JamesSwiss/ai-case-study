@@ -4,17 +4,17 @@
 
 * Company Name: Exscientia 
 
-* Incorporated in 
+* Incorporated in 2012 
 
-* Founded by 
+* Founded by Andrew Hopkins
 
 * The idea came about when Andrew was a PhD student in the 1990's researching HIV drugs and thought of how much more efficient it owuld be of there was technology to automate the testing and discovery of new molecules that can be combined into pharmaceutical drugs 
 
-* Esxcientia went public in ____ and has a current market cap of 770.88 million with an enterprise value of 328.35 million
+* Esxcientia went public on October 1, 2021 on the NASDAQ stock exchange under the ticker symbole EXAI. They have a current market cap of 770.88 million with an enterprise value of 328.35 million
 
 ## Business Activities
 
-* Exscientia is working to reduce the time it takes to discover new moleculules to then design and develope new pharmacautical drugs. They also incorporate target identification and patient selection based on DNA samples, testing multiple drugs in parallel on the sample without risk to the patient. 
+* Exscientia is working to reduce the time it takes to discover new moleculules to then design and develope new pharmacautical drugs. They also incorporate target identification and patient selection based on DNA samples to provide drug therapies to patients. 
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
@@ -50,4 +50,6 @@
 
 * Sources:
   https://www.labiotech.eu/trends-news/exscientia-drug-discovery-ai/#:~:text=Exscientia%27s%20total%20winnings%20from%20the,2.5B%20(%242.9B)
+  https://stockanalysis.com/stocks/exai/
+  
   
